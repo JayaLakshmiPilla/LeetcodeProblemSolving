@@ -18,6 +18,7 @@ All the solved leetcode problems will be present here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,5 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
