@@ -11,6 +11,7 @@ All the solved leetcode problems will be present here
 | [0009-palindrome-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
