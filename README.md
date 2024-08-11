@@ -15,6 +15,7 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0001-two-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
