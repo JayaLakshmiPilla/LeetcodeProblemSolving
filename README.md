@@ -51,6 +51,7 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -77,4 +78,8 @@ All the solved leetcode problems will be present here
 | [0595-big-countries](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/2057-count-salary-categories) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
