@@ -66,4 +66,8 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
