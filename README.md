@@ -17,6 +17,7 @@ All the solved leetcode problems will be present here
 | [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
