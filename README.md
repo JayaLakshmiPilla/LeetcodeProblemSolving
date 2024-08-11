@@ -12,6 +12,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,12 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
