@@ -11,6 +11,7 @@ All the solved leetcode problems will be present here
 | [0009-palindrome-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ All the solved leetcode problems will be present here
 | [0035-search-insert-position](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
