@@ -13,6 +13,7 @@ All the solved leetcode problems will be present here
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 ## Array
@@ -110,4 +111,12 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
