@@ -11,6 +11,7 @@ All the solved leetcode problems will be present here
 | [0009-palindrome-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
@@ -105,4 +106,8 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
