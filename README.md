@@ -24,6 +24,7 @@ All the solved leetcode problems will be present here
 | [0011-container-with-most-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
@@ -52,6 +53,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 ## Divide and Conquer
