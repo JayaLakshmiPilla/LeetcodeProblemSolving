@@ -34,6 +34,7 @@ All the solved leetcode problems will be present here
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ All the solved leetcode problems will be present here
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -137,4 +139,5 @@ All the solved leetcode problems will be present here
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
