@@ -35,6 +35,7 @@ All the solved leetcode problems will be present here
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ All the solved leetcode problems will be present here
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,4 +144,8 @@ All the solved leetcode problems will be present here
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
