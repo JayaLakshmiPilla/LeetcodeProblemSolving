@@ -32,6 +32,7 @@ All the solved leetcode problems will be present here
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@ All the solved leetcode problems will be present here
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -81,6 +83,7 @@ All the solved leetcode problems will be present here
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -150,5 +153,6 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
