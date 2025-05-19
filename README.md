@@ -78,6 +78,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0013-roman-to-integer) |
@@ -94,6 +95,7 @@ All the solved leetcode problems will be present here
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -137,6 +139,7 @@ All the solved leetcode problems will be present here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
