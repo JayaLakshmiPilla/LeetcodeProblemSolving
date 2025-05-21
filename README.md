@@ -100,6 +100,7 @@ All the solved leetcode problems will be present here
 | [0022-generate-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0058-length-of-last-word) |
 ## Trie
@@ -143,6 +144,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -161,6 +163,7 @@ All the solved leetcode problems will be present here
 | [0005-longest-palindromic-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
