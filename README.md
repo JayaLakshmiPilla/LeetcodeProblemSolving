@@ -28,6 +28,7 @@ All the solved leetcode problems will be present here
 | [0018-4sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0036-valid-sudoku) |
@@ -117,6 +118,7 @@ All the solved leetcode problems will be present here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
 ## Backtracking
