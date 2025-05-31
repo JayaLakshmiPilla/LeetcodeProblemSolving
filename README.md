@@ -44,6 +44,7 @@ All the solved leetcode problems will be present here
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ All the solved leetcode problems will be present here
 | [0042-trapping-rain-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
