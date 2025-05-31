@@ -45,6 +45,7 @@ All the solved leetcode problems will be present here
 | [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
@@ -202,6 +203,7 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0036-valid-sudoku](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
@@ -226,4 +228,5 @@ All the solved leetcode problems will be present here
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
