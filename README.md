@@ -38,6 +38,7 @@ All the solved leetcode problems will be present here
 | [0040-combination-sum-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
@@ -170,6 +171,7 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0011-container-with-most-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0045-jump-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ All the solved leetcode problems will be present here
 | [0032-longest-valid-parentheses](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
