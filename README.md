@@ -15,6 +15,7 @@ All the solved leetcode problems will be present here
 | [0043-multiply-strings](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
@@ -86,6 +87,7 @@ All the solved leetcode problems will be present here
 | [0025-reverse-nodes-in-k-group](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0060-permutation-sequence) |
 ## Binary Search
 |  |
 | ------- |
