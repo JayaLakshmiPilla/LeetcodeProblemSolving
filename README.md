@@ -20,6 +20,7 @@ All the solved leetcode problems will be present here
 | [0066-plus-one](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -207,6 +208,7 @@ All the solved leetcode problems will be present here
 | [0062-unique-paths](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -245,4 +247,8 @@ All the solved leetcode problems will be present here
 | [0054-spiral-matrix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0068-text-justification) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
