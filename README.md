@@ -304,18 +304,22 @@ All the solved leetcode problems will be present here
 | ------- |
 | [0079-word-search](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0098-validate-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
