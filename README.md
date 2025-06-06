@@ -148,6 +148,7 @@ All the solved leetcode problems will be present here
 | [0076-minimum-window-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0091-decode-ways) |
 ## Trie
 |  |
 | ------- |
@@ -243,6 +244,7 @@ All the solved leetcode problems will be present here
 | [0070-climbing-stairs](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0091-decode-ways) |
 ## Combinatorics
 |  |
 | ------- |
