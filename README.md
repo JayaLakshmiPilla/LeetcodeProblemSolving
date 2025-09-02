@@ -23,6 +23,7 @@ All the solved leetcode problems will be present here
 | [0070-climbing-stairs](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ All the solved leetcode problems will be present here
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ All the solved leetcode problems will be present here
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
