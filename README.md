@@ -69,6 +69,7 @@ All the solved leetcode problems will be present here
 | [0084-largest-rectangle-in-histogram](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ All the solved leetcode problems will be present here
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
