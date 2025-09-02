@@ -24,6 +24,7 @@ All the solved leetcode problems will be present here
 | [0089-gray-code](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ All the solved leetcode problems will be present here
 | [0084-largest-rectangle-in-histogram](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -84,6 +86,7 @@ All the solved leetcode problems will be present here
 | [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +121,7 @@ All the solved leetcode problems will be present here
 | [0069-sqrtx](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +241,7 @@ All the solved leetcode problems will be present here
 | [0078-subsets](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -282,6 +287,7 @@ All the solved leetcode problems will be present here
 | [0049-group-anagrams](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/JayaLakshmiPilla/LeetcodeProblemSolving/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
